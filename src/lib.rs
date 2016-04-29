@@ -20,3 +20,4 @@ mod cobalt;
 mod config;
 pub mod error;
 mod document;
+mod permalinks;
